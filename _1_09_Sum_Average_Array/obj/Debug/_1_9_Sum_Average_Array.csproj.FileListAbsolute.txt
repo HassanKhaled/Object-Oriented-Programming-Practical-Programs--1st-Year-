@@ -1,8 +1,0 @@
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\bin\Debug\_1_9_Sum_Average_Array.exe.config
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\bin\Debug\_1_9_Sum_Average_Array.exe
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\bin\Debug\_1_9_Sum_Average_Array.pdb
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\obj\Debug\_1_9_Sum_Average_Array.csproj.AssemblyReference.cache
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\obj\Debug\_1_9_Sum_Average_Array.csproj.SuggestedBindingRedirects.cache
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\obj\Debug\_1_9_Sum_Average_Array.csproj.CoreCompileInputs.cache
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\obj\Debug\_1_9_Sum_Average_Array.exe
-D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd Semester\Object Orient Programming (1st Year)\_1_9_Sum_Average_Array\obj\Debug\_1_9_Sum_Average_Array.pdb
