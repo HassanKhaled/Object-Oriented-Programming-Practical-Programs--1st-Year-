@@ -1,0 +1,8 @@
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\bin\Debug\_2_03_Priting2DArrays.exe.config
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\bin\Debug\_2_03_Priting2DArrays.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\bin\Debug\_2_03_Priting2DArrays.pdb
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\obj\Debug\_2_02_Priting2DArrays.csproj.AssemblyReference.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\obj\Debug\_2_02_Priting2DArrays.csproj.SuggestedBindingRedirects.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\obj\Debug\_2_02_Priting2DArrays.csproj.CoreCompileInputs.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\obj\Debug\_2_03_Priting2DArrays.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_03_Priting2DArrays\obj\Debug\_2_03_Priting2DArrays.pdb

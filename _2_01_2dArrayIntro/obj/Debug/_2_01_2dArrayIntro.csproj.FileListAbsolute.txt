@@ -1,0 +1,8 @@
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\bin\Debug\_2_01_2dArrayIntro.exe.config
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\bin\Debug\_2_01_2dArrayIntro.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\bin\Debug\_2_01_2dArrayIntro.pdb
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\obj\Debug\_2_01_2dArrayIntro.csproj.AssemblyReference.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\obj\Debug\_2_01_2dArrayIntro.csproj.SuggestedBindingRedirects.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\obj\Debug\_2_01_2dArrayIntro.csproj.CoreCompileInputs.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\obj\Debug\_2_01_2dArrayIntro.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_2_01_2dArrayIntro\obj\Debug\_2_01_2dArrayIntro.pdb
