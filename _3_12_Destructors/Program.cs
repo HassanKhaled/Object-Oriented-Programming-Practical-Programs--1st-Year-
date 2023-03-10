@@ -15,7 +15,6 @@ namespace _3_12_Destructors
             this.age = age;
             this.name = name;
         }
-
         public Student()
         {
 
@@ -31,10 +30,8 @@ namespace _3_12_Destructors
     }
     class Program
     {
-
         static void Main(string[] args)
         {
-
             Student[] students = new Student[150]; 
             for (int i = 0; i < students.Length; i++)
             {
