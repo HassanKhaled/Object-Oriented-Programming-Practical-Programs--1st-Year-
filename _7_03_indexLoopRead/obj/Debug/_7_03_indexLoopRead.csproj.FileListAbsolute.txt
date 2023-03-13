@@ -1,0 +1,8 @@
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\bin\Debug\_7_03_indexLoopRead.exe.config
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\bin\Debug\_7_03_indexLoopRead.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\bin\Debug\_7_03_indexLoopRead.pdb
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\obj\Debug\_7_03_indexLoopRead.csproj.AssemblyReference.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\obj\Debug\_7_03_indexLoopRead.csproj.SuggestedBindingRedirects.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\obj\Debug\_7_03_indexLoopRead.csproj.CoreCompileInputs.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\obj\Debug\_7_03_indexLoopRead.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_7_03_indexLoopRead\obj\Debug\_7_03_indexLoopRead.pdb
