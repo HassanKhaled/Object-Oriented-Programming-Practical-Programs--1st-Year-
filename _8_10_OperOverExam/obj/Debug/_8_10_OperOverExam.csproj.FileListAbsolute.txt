@@ -1,0 +1,8 @@
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\bin\Debug\_8_10_OperOverExam.exe.config
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\bin\Debug\_8_10_OperOverExam.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\bin\Debug\_8_10_OperOverExam.pdb
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\obj\Debug\_8_10_OperOverExam.csproj.AssemblyReference.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\obj\Debug\_8_10_OperOverExam.csproj.SuggestedBindingRedirects.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\obj\Debug\_8_10_OperOverExam.csproj.CoreCompileInputs.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\obj\Debug\_8_10_OperOverExam.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_8_10_OperOverExam\obj\Debug\_8_10_OperOverExam.pdb
