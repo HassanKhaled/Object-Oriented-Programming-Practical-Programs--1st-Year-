@@ -1,0 +1,8 @@
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\obj\Debug\_09_05_Protected.csproj.AssemblyReference.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\obj\Debug\_09_05_Protected.csproj.SuggestedBindingRedirects.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\obj\Debug\_09_05_Protected.csproj.CoreCompileInputs.cache
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\bin\Debug\_09_05_Protected.exe.config
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\bin\Debug\_09_05_Protected.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\bin\Debug\_09_05_Protected.pdb
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\obj\Debug\_09_05_Protected.exe
+D:\0000_Work\College\2022-2023 [ Year 8 ]\2nd\OOP(1st Year)\OOP_Labs_2023\Object-Oriented-Programming-Practical-Programs--1st-Year-\_09_05_Protected\obj\Debug\_09_05_Protected.pdb
