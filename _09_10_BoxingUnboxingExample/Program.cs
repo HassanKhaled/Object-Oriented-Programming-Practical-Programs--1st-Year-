@@ -18,17 +18,14 @@ namespace _09_10_BoxingUnboxingExample
             things[2] = 12.2441;
             things[3] = true;
             things[4] = 'h';
-
             foreach (var thing  in things)
             {
                 if (thing is System.Double)
-                {
-                    //unboxing
+                {  //unboxing
                     Console.WriteLine((double)thing * (double)thing);
                 }
                 if (thing is System.Int32)
-                {
-                    //unboxing
+                {   //unboxing
                     Console.WriteLine((int)thing * (int)thing);
                 }
                 Console.WriteLine(thing);
